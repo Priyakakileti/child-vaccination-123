@@ -15,9 +15,8 @@
 	<description>Baby Vaccine Application project for Spring Boot</description>
 	<properties>
 		<java.version>17</java.version>
-		
-<!--     <sonar.login>admin</sonar.login>
-    <sonar.password>Hariteja@sq6</sonar.password> -->
+		<sonar.login>admin</sonar.login>
+		<sonar.password>Hariteja@sq6</sonar.password>
 	</properties>
 	<dependencies>
 		<dependency>
